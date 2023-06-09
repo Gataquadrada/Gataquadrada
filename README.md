@@ -1,10 +1,11 @@
 # Hi, I'm Maze
 
-[![Website](https://img.shields.io/website?label=Tomato&style=for-the-badge&url=https%3A%2F%2Fwetomato.dev)][website]
-[![Blog](https://img.shields.io/website?label=Caramel&style=for-the-badge&url=https%3A%2F%2Fcaramel.gg)][website]  
-[![Twitter Follow](https://img.shields.io/twitter/follow/mazeakin?style=for-the-badge)][twitter]
-[![Twitch Status](https://img.shields.io/twitch/status/mazeakin?style=for-the-badge)][twitch]
-[![Discord](https://img.shields.io/discord/702545555523371040?label=DISCORD&style=for-the-badge)][discord]
+[![Website](https://img.shields.io/website?label=wetomato.dev&style=for-the-badge&url=https%3A%2F%2Fwetomato.dev)][website]
+[![Twitter Follow](https://img.shields.io/twitter/follow/gataquadrada?style=for-the-badge)][twitter]
+[![Twitch Status](https://img.shields.io/twitch/status/gataquadrada?style=for-the-badge)][twitch]
+
+<!-- [![Blog](https://img.shields.io/website?label=gata.gg&style=for-the-badge&url=https%3A%2F%2Fgata.gg)][website]
+[![Discord](https://img.shields.io/discord/702545555523371040?label=DISCORD&style=for-the-badge)][discord]  -->
 <br />
 <br />
 <br />
@@ -19,14 +20,14 @@
 -   🪄 I will randomly have ideas and instantly start working on prototypes. Like [this][github_spritetube] and [this][github_nightbot_commands].
 -   🎩 Despite being a generally hardcore loyal person, I also am able to be fully neutral.
 -   ♾️ I speak English, Portuguese and am learing Spanish and German (whenever I find the time for it).
--   🚧 Let me do my job and we'll have a great relationship. Want to be my friend? Wait till after business hours.
+-   🚧 Allow me to do my job and we'll have a great relationship. Want to be my friend? Wait till after business hours.
 
 <br />
 <br />
 
 ## Languages and Tools
 
-> _Mind you, this is what I am comfortable advertising. My actual repertoire of languages and tools is broader._  
+> _Mind you, this is what I am comfortable with advertising. My actual repertoire of languages and tools is (way) broader._  
 > _I also suppressed obvious basekit for a developer (Terminal, Git, Bash, etc) and items that may give too much information about how I made my online learning platform._
 
 [<img src="icons/php.png" alt="PHP" title="PHP" height="32px" align="left" style="margin-right:3px" />][website]
@@ -59,7 +60,7 @@
 <details>
   <summary>🔬 GitHub Stats</summary>
   
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=mazeakin&show_icons=true&icon_color=FFE400&bg_color=09131B&theme=monokai&border_color=0c1a25" />
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=gataquadrada&show_icons=true&icon_color=FFE400&bg_color=09131B&theme=monokai&border_color=0c1a25" />
 </details>
 <br />
 <br />
@@ -67,40 +68,40 @@
 
 ## Follow me
 
-[<img src="icons/bird-blue.png" alt="Twitter@Mazeakin" title="Twitter@Mazeakin" width="32px" align="left" style="margin-right:3px" />][twitter]
+[<img src="icons/bird-blue.png" alt="Twitter@gataquadrada" title="Twitter@gataquadrada" width="32px" align="left" style="margin-right:3px" />][twitter]
 [<img src="icons/globe-red.png" alt="wetomato.dev" title="wetomato.dev" width="32px" align="left" style="margin-right:3px" />][website]
-[<img src="icons/tv.png" alt="Twitch@Mazeakin" title="Twitch@Mazeakin" width="32px" align="left" style="margin-right:3px" />][twitch]
+[<img src="icons/tv.png" alt="Twitch@gataquadrada" title="Twitch@gataquadrada" width="32px" align="left" style="margin-right:3px" />][twitch]
 <br />
 <br />
 <br />
 
 ## Support me
 
-[![coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=mazeakin&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)][coffee]
+[![coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=gataquadrada&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)][coffee]
 
 <!-- <br />
 <br />
 
 ## Github stats
 
-![Mazes's github stats](https://github-readme-stats.vercel.app/api?username=mazeakin&show_icons=true&theme=monokai&_=1)
+![Gata's github stats](https://github-readme-stats.vercel.app/api?username=gataquadrada&show_icons=true&theme=monokai&_=1)
 
 <br />
 <br /> -->
 
 <!-- ## My favorite repos
 
-[![READMAZE.md](https://github-readme-stats.vercel.app/api/pin/?username=mazeakin&repo=spritetube&theme=dracula&_=1)](https://github.com/mazeakin/spritetube)
+[![READMAZE.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=spritetube&theme=dracula&_=1)](https://github.com/gataquadrada/spritetube)
 
-[![READMAZE.md](https://github-readme-stats.vercel.app/api/pin/?username=mazeakin&repo=nightbot-commands&theme=dracula&_=1)](https://github.com/mazeakin/nightbot-commands) -->
+[![READMAZE.md](https://github-readme-stats.vercel.app/api/pin/?username=gataquadrada&repo=nightbot-commands&theme=dracula&_=1)](https://github.com/gataquadrada/nightbot-commands) -->
 
 [website]: https://wetomato.dev
-[blog]: https://caramel.gg
-[twitter]: https://twitter.com/mazeakin
-[twitch]: https://twitch.tv/mazeakin
+[blog]: https://gata.gg
+[twitter]: https://twitter.com/gataquadrada
+[twitch]: https://twitch.tv/gataquadrada
 [discord]: https://discord.gg/eYfSNQT
-[coffee]: https://www.buymeacoffee.com/mazeakin
-[github_nightbot_commands]: https://github.com/Mazeakin/nightbot-commands
-[github_jquery_autofill]: https://github.com/Mazeakin/jquery-bootstrap-autofill
-[github_jquery_reorder]: https://github.com/Mazeakin/jquery-bootstrap-reorder
-[github_spritetube]: https://github.com/Mazeakin/SpriteTube
+[coffee]: https://www.buymeacoffee.com/gataquadrada
+[github_nightbot_commands]: https://github.com/gataquadrada/nightbot-commands
+[github_jquery_autofill]: https://github.com/gataquadrada/jquery-bootstrap-autofill
+[github_jquery_reorder]: https://github.com/gataquadrada/jquery-bootstrap-reorder
+[github_spritetube]: https://github.com/gataquadrada/SpriteTube

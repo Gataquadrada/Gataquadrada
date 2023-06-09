@@ -1,4 +1,4 @@
-# Hi, I'm Maze
+# Hi, I'm Gata
 
 [![Website](https://img.shields.io/website?label=wetomato.dev&style=for-the-badge&url=https%3A%2F%2Fwetomato.dev)][website]
 [![Twitter Follow](https://img.shields.io/twitter/follow/gataquadrada?style=for-the-badge)][twitter]
@@ -50,11 +50,11 @@
 <details>
   <summary>⚡ Recent Activity</summary>
   
-  1. 🚑 Fixed typo on [jQuery-Bootstrap-Reorder][github_jquery_reorder].
-  2. 👩🏼‍💻 New Repo [jQuery-Bootstrap-Reorder][github_jquery_reorder].
-  3. 🚑 Updated [jQuery-Bootstrap-Autocomplete][github_jquery_autofill] with new options.
-  4. 👩🏼‍💻 New Repo [jQuery-Bootstrap-Autocomplete][github_jquery_autofill].
-  5. 👩🏼‍💻 New Repo [Nightbot Commands][github_nightbot_commands].
+  1. 👩🏼‍💻 New Repo [Better Gatry][https://github.com/Gataquadrada/better-gatry].
+  2. 🚑 Fixed typo on [jQuery-Bootstrap-Reorder][github_jquery_reorder].
+  3. 👩🏼‍💻 New Repo [jQuery-Bootstrap-Reorder][github_jquery_reorder].
+  4. 🚑 Updated [jQuery-Bootstrap-Autocomplete][github_jquery_autofill] with new options.
+  5. 👩🏼‍💻 New Repo [jQuery-Bootstrap-Autocomplete][github_jquery_autofill].
 </details>
 
 <details>

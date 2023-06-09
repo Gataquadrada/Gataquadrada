@@ -50,7 +50,7 @@
 <details>
   <summary>⚡ Recent Activity</summary>
   
-  1. 👩🏼‍💻 New Repo [Better Gatry][https://github.com/Gataquadrada/better-gatry].
+  1. 👩🏼‍💻 New Repo [Better Gatry](https://github.com/Gataquadrada/better-gatry).
   2. 🚑 Fixed typo on [jQuery-Bootstrap-Reorder][github_jquery_reorder].
   3. 👩🏼‍💻 New Repo [jQuery-Bootstrap-Reorder][github_jquery_reorder].
   4. 🚑 Updated [jQuery-Bootstrap-Autocomplete][github_jquery_autofill] with new options.

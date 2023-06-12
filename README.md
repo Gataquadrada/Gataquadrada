@@ -19,7 +19,7 @@
 -   🪆 Recently, I got into open-source code.
 -   🪄 I will randomly have ideas and instantly start working on prototypes. Like [this][github_spritetube] and [this][github_nightbot_commands].
 -   🎩 Despite being a generally hardcore loyal person, I also am able to be fully neutral.
--   ♾️ I speak English, Portuguese and am learing Spanish and German (whenever I find the time for it).
+-   ♾️ I speak English, Portuguese and am learning Spanish and German (whenever I find the time for it).
 -   🚧 Allow me to do my job and we'll have a great relationship. Want to be my friend? Wait till after business hours.
 
 <br />
@@ -64,7 +64,6 @@
 </details>
 <br />
 <br />
-<br />
 
 ## Follow me
 
@@ -78,6 +77,11 @@
 ## Support me
 
 [![coffee](https://img.buymeacoffee.com/button-api/?text=Buy+me+a+coffee&emoji=&slug=gataquadrada&button_colour=FF5F5F&font_colour=ffffff&font_family=Lato&outline_colour=000000&coffee_colour=FFDD00)][coffee]
+
+<br />
+<br />
+
+## Stuff I am proud of ⬇️
 
 <!-- <br />
 <br />
